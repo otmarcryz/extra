@@ -4,7 +4,7 @@ IVAR="/etc/http-instas"
 
 SCPT_DIR="/etc/SCRIPT"
 
-SCPresq="aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL290bWFyY3J5ei9leHRyYS9tYXN0ZXIvZ2VyYWRvcg=="
+SCPresq="aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RoZW9uZWpwYXMvZ2VuLWFkbS1rZXkvbWFzdGVyL2dlcmFkb3I="
 
 SUB_DOM='base64 -d'
 
